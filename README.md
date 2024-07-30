@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Tripathi
 - 👀 I’m interested in data_Structure and Web_development
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently Working on Backend development
 - 📫 How to reach me?
 - email->tripathishakti22@gmail.com
 - ⚡ Fun fact:
